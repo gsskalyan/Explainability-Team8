@@ -10,7 +10,13 @@ The three parts of Project are submitted in directory structure as shown below,
 
 Part1
 	-	LIME -  Local Interpretable Model-Agnostic Explanations Implementation execution
-	-	Python Notebook with execution steps and output : Explainability_covid_cxr_part1.ipynb
+	-	Python Notebook with execution steps and output
+	-	100 EPOCHS - BINARY CLASS 
+		https://github.com/gsskalyan/Explainability-Team8/blob/master/Part1/binary_100_epochs/Binary_covid_cxr_100_epoch.ipynb	
+	-	45 EPOCHS - MULTI CLASS
+		https://github.com/gsskalyan/Explainability-Team8/blob/master/Part1/multi_class_45_epoch/Multiclass_covid_cxr_45_epoch.ipynb
+	-	10 EPOCHS - BINARY CLASS (Understanding and Practice)
+		https://github.com/gsskalyan/Explainability-Team8/blob/master/Part1/binary_10_epochs/Binary_covid_cxr_10_epochs.ipynb
 	-	Results and logs
 		-	<Add Here>
 
