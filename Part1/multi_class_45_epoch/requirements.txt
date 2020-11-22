@@ -1,0 +1,13 @@
+pyyaml==5.2
+matplotlib==3.1.1
+tqdm==4.40.2
+opencv_python
+tensorflow_gpu==2.3.1
+dill==0.3.0
+scikit_image
+numpy
+pandas==0.25.3
+pydicom==1.4.2
+imbalanced_learn==0.6.1
+tensorboard==2.3.0
+lime==0.1.1.37
