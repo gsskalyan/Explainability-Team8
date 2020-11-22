@@ -23,13 +23,13 @@ Part1
 
 Part 2
 	-	SHAP Summary
-	-	PDF Report explaining SHAP Summary - Explainability_SHAP_Summary.pdf
+	-	PDF Report explaining SHAP Summary can be found here - https://github.com/gsskalyan/Explainability-Team8/blob/master/Part2/Explainability_SHAP_Summary.pdf
 	-	Summary Includes:
 		-	Detailed explanation about SHAP Model,its concepts with diagrams
 		-	Steps involved to plugin Covid19-Pneumonia model(pre-trained) to SHAP (Gradient Explainer)
 
 Part 3
 	-	Plugin Covid19-Pneumonia model(pre-trained) to SHAP
-	-	Python Notebook with execution steps and output : SHAP_Part3.ipynb
+	-	Python Notebook with execution steps and output : https://github.com/gsskalyan/Explainability-Team8/blob/master/Part3/SHAP_Part3.ipynb
 	-	Uses Gradient Explainer
 	-	(Constraints faced while executing)
