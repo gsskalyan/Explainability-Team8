@@ -17,8 +17,9 @@ Part1
 		https://github.com/gsskalyan/Explainability-Team8/blob/master/Part1/multi_class_45_epoch/Multiclass_covid_cxr_45_epoch.ipynb
 	-	10 EPOCHS - BINARY CLASS (Understanding and Practice)
 		https://github.com/gsskalyan/Explainability-Team8/blob/master/Part1/binary_10_epochs/Binary_covid_cxr_10_epochs.ipynb
-	-	Results and logs
-		-	<Add Here>
+	-	Results and logs - Adding Google Drive link since models and logs could not be uploaded to Git hub owing to size restrictions
+		- https://drive.google.com/drive/u/0/folders/1Yc6s18Z6DwhsOLtZEyB-nWhNLo_wWzJG (Results and logs)
+		- https://drive.google.com/drive/u/0/folders/1WOqX1P4fdY4MmTGEhaR4DPnQhil7bVhC (Entire covid19 repo)
 
 Part 2
 	-	SHAP Summary
